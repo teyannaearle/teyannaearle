@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![catimage](https://www.thehappycatsite.com/wp-content/uploads/2019/02/Cartoon-Cat-Names-long.jpg)
 <!--
 **teyannaearle/teyannaearle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
