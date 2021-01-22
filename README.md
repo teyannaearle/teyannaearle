@@ -1,4 +1,6 @@
+ #### Contact me: [teyannaearle@gmail.com](mailto:teyannaearle@gmail.com "Teyanna's Email") 
 ![catimage](https://github.com/teyannaearle/teyannaearle/blob/main/assets/Every%20great%20dream%20begins%20with%20a%20dreamer.png?raw=true)
+
 <!--
 **teyannaearle/teyannaearle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
