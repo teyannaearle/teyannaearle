@@ -1,5 +1,5 @@
  #### Contact me: [teyannaearle@gmail.com](mailto:teyannaearle@gmail.com "Teyanna's Email") 
-![catimage](https://github.com/teyannaearle/teyannaearle/blob/main/assets/Every%20great%20dream%20begins%20with%20a%20dreamer.png?raw=true)
+![catimage](https://github.com/teyannaearle/teyannaearle/blob/main/assets/Final%20GitHub.png?raw=true)
 
 ## Hello, I'm Teyanna 👋🏽
 A Queens native, Full stack Web developer, who studied at an intensive 12-month software engineering fellowship, called Pursuit, with a 9% acceptance rate. Proficient in Javascript, HTML, CSS, Node, PostgreSQL, Redux.js, React.js, Git and Github.
